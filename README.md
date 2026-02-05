@@ -1,1 +1,1 @@
-# drfit_max
+# drfit.max
